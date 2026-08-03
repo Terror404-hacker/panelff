@@ -37,21 +37,14 @@ termux-setup-storage
 3. Télécharger le script
 
 ```bash
-git clone
+git clone https://github.com/Terror404-hacker/panelff.git
 cd panelff
-nano aimbot.py
+python mypanel.py
 ```
 
-Copie le script complet (fourni ci-dessous).
 Sauvegarde : CTRL+X → O → ENTRÉE
 
 ---
-
-🚀 Lancer le script
-
-```bash
-python aimbot.py
-```
 
 Contrôles
 
