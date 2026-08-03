@@ -1,4 +1,3 @@
-
 -
 
 ```markdown
@@ -41,9 +40,6 @@ git clone https://github.com/Terror404-hacker/panelff.git
 cd panelff
 python mypanel.py
 ```
-
-Sauvegarde : CTRL+X → O → ENTRÉE
-
 ---
 
 Contrôles
